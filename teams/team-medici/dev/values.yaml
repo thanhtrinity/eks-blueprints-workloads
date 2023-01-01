@@ -1,6 +1,6 @@
 labels:
   env: dev
-  team: riker
+  team: medici
 spec:
   env:
   ingress:
